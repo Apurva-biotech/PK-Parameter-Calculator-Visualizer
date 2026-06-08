@@ -7,6 +7,8 @@ A production-quality Python portfolio project for pharmacokinetic analysis of pl
 ![Metrics and Model Fit](assets/metrics_model_fit.png)
 ![Plot and Download](assets/plot_download_table.png)
 
+**🔗 Live Demo:** [PK Parameter Calculator](https://pk-parameter-calculator-visualizer-c3w2mydgfwf6tmzbaobtpj.streamlit.app/)
+
 ## Project Overview
 
 This project is designed for biotechnology and computational pharmacokinetics portfolios. It demonstrates:
