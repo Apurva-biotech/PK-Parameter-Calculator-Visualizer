@@ -2,6 +2,11 @@
 
 A production-quality Python portfolio project for pharmacokinetic analysis of plasma concentration-time data. The tool reads a CSV file, validates analytical data, calculates core pharmacokinetic parameters, fits a one-compartment IV bolus model, and exports a publication-ready PNG visualization.
 
+## Preview
+
+![Metrics and Model Fit](assets/metrics_model_fit.png)
+![Plot and Download](assets/plot_download_table.png)
+
 ## Project Overview
 
 This project is designed for biotechnology and computational pharmacokinetics portfolios. It demonstrates:
